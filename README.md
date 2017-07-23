@@ -1,1 +1,1 @@
-** Printz signup holding page **
+Printz signup holding page
